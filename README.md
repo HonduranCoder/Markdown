@@ -1,5 +1,10 @@
 # Markdown
 
+Bullet List:
+- Item 1
+- Item 2
+
+<br>
 Image:
 
 > ![Pic](https://images.unsplash.com/photo-1563394927360-08299fbdadb3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80 "Skogafoss")
